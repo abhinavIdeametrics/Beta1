@@ -1,0 +1,4 @@
+C:\Tria_Bono\Substract\SubstractLogic\bin\Debug\SubstractLogic.dll
+C:\Tria_Bono\Substract\SubstractLogic\bin\Debug\SubstractLogic.pdb
+C:\Tria_Bono\Substract\SubstractLogic\obj\Debug\SubstractLogic.dll
+C:\Tria_Bono\Substract\SubstractLogic\obj\Debug\SubstractLogic.pdb
