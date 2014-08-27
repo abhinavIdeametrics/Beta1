@@ -1,0 +1,7 @@
+C:\Tria_Bono\Substract\Substract\bin\Substract.dll
+C:\Tria_Bono\Substract\Substract\bin\Substract.pdb
+C:\Tria_Bono\Substract\Substract\bin\SubstractLogic.dll
+C:\Tria_Bono\Substract\Substract\bin\SubstractLogic.pdb
+C:\Tria_Bono\Substract\Substract\obj\Debug\Substract.csprojResolveAssemblyReference.cache
+C:\Tria_Bono\Substract\Substract\obj\Debug\Substract.dll
+C:\Tria_Bono\Substract\Substract\obj\Debug\Substract.pdb

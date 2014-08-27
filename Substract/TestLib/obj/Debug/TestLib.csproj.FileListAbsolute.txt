@@ -1,0 +1,13 @@
+C:\Tria_Bono\Substract\TestLib\obj\Debug\TestLib.csprojResolveAssemblyReference.cache
+C:\Tria_Bono\Substract\TestLib\bin\Debug\TestLib.dll
+C:\Tria_Bono\Substract\TestLib\bin\Debug\TestLib.pdb
+C:\Tria_Bono\Substract\TestLib\bin\Debug\nunit.framework.dll
+C:\Tria_Bono\Substract\TestLib\bin\Debug\Rhino.Mocks.dll
+C:\Tria_Bono\Substract\TestLib\bin\Debug\Substract.dll
+C:\Tria_Bono\Substract\TestLib\bin\Debug\SubstractLogic.dll
+C:\Tria_Bono\Substract\TestLib\bin\Debug\SubstractLogic.pdb
+C:\Tria_Bono\Substract\TestLib\bin\Debug\Substract.pdb
+C:\Tria_Bono\Substract\TestLib\bin\Debug\nunit.framework.xml
+C:\Tria_Bono\Substract\TestLib\bin\Debug\Rhino.Mocks.xml
+C:\Tria_Bono\Substract\TestLib\obj\Debug\TestLib.dll
+C:\Tria_Bono\Substract\TestLib\obj\Debug\TestLib.pdb
