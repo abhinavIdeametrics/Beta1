@@ -20,5 +20,16 @@ namespace TestLib
 
             Assert.AreEqual(subsMock, model._substract);
         }
+
+        [Test]
+
+        public void MyModelIntegrationTest()
+        {
+            ISubstract substract = new Substaction();
+
+            var model = new MyModels(substract);
+
+            Assert.AreEqual(substract, model._substract);
+        }
     }
 }

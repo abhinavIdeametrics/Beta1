@@ -19,22 +19,25 @@ namespace SubstractLogic
             return x - y;
         }
 
+        private IEnumerable<string> collectionString;
 
         public IEnumerable<string> CollecString
         {
+           
+
             get
             {
-                throw new NotImplementedException();
+             return collectionString;
             }
             set
             {
-                throw new NotImplementedException();
+                collectionString = value;
             }
         }
 
         public Substaction()
         {
-            CollecString = new List<string> {"Dan Brown"};
+            collectionString = new List<string> {"Dan Brown"};
         }
     }
 
