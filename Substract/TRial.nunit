@@ -1,6 +1,0 @@
-﻿<NUnitProject>
-  <Settings processModel="Default" domainUsage="Default"/>
-  <Config name="Heloworld" binpathtype="Manual" binpath="TestLib\bin\Debug" runtimeFramework="net-4.0.21006">
-    <assembly path="TestLib\bin\Debug\TestLib.dll" />
-  </Config>
-</NUnitProject>
