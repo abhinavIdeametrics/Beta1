@@ -2,8 +2,12 @@
 
 <project name="TestLib">
 
-   <target name="Testbuild">
-   	<csc target="library" output="TestLib.dll" debug="true">
+	<target name="clean">
+		<delete file="bin\Debug\TestLib.dll" if="${file::exists('bin\Debug\TestLib.dll')}" />
+	</target>
+
+   <target name="Testbuild" depends="clean">
+   	<csc target="library" output="bin\Debug\TestLib.dll" debug="true">
    		<sources>
    			<include name="Class1.cs" />
    		</sources>
