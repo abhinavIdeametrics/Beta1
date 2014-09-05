@@ -30,6 +30,9 @@ namespace TestLib
             var model = new MyModels(substract);
 
             Assert.AreEqual(substract, model._substract);
+
+
+
         }
     }
 }
