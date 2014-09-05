@@ -1,8 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
-MinimumVisualStudioVersion = 10.0.40219.1
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Web Developer Express 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Substract", "Substract\Substract.csproj", "{DE8E7EA3-98CB-4514-A8D2-0A03FC415910}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubstractLogic", "SubstractLogic\SubstractLogic.csproj", "{55CE03BA-1E0C-4A59-A2E3-103F0BB0727C}"

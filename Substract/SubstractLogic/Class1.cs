@@ -8,8 +8,8 @@ namespace SubstractLogic
     public interface ISubstract
     {
         double Substract(double x, double y);
-
-        IEnumerable<string> CollecString { get; set; }
+        //Trial Edit
+       IEnumerable<string> CollecString { get; set; }
     }
 
     public class Substaction:ISubstract
